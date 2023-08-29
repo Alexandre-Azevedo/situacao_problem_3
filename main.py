@@ -1,5 +1,7 @@
 import sys
 
+#PARA EXECUTAR O SCRIPT BASTA PASSAR python3 main.py <numeros testados>
+#EX:  python3 main.py 3 4 5 431
 
 def impar_par(numeros):
     for i in numeros:
